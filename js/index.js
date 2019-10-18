@@ -24,6 +24,12 @@ $(function(){
         methods:{
             usually:function(){
                 window.location.href = 'usually.html';
+            },
+            test1:function(){
+                window.location.href = 'test1.html';
+            },
+            test2:function(){
+                window.location.href = 'test2.html';
             }
         }
     })
